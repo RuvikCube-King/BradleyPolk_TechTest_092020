@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/kq7yCx81JCEw1OOWhClwSoqmZ5ELDOxEJT9vDuijRjIILk1K89gJQJZ2nXrvmhB31byPHaGICKI/i7QK1Lhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Plato\\source\\repos\\DnDBeyondTechTest\\DnDBeyondBusiness\\DnDBeyondBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Plato\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

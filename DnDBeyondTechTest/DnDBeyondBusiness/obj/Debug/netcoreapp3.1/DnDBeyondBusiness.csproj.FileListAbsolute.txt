@@ -1,0 +1,8 @@
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\bin\Debug\netcoreapp3.1\DnDBeyondBusiness.deps.json
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\bin\Debug\netcoreapp3.1\DnDBeyondBusiness.dll
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\bin\Debug\netcoreapp3.1\DnDBeyondBusiness.pdb
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\obj\Debug\netcoreapp3.1\DnDBeyondBusiness.AssemblyInfoInputs.cache
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\obj\Debug\netcoreapp3.1\DnDBeyondBusiness.AssemblyInfo.cs
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\obj\Debug\netcoreapp3.1\DnDBeyondBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\obj\Debug\netcoreapp3.1\DnDBeyondBusiness.dll
+C:\Users\Plato\source\repos\DnDBeyondTechTest\DnDBeyondBusiness\obj\Debug\netcoreapp3.1\DnDBeyondBusiness.pdb

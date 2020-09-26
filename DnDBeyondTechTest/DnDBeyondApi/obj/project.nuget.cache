@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2Xlp6WMX14UfJtxWefgScoLMumpf7DpgvrdhNq/+2NgNiwxfRTQKQjxN8ZdgFM6Ckc/37AyTMREa8eEYYeerQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Plato\\source\\repos\\DnDBeyondTechTest\\DnDBeyondApi\\DnDBeyondApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Plato\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Plato\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
